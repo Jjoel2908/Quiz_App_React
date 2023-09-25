@@ -11,13 +11,13 @@ Para utilizar la aplicación, el usuario debe seleccionar una categoría. A cont
 
 ### Ilustraciones
 
-** Home **
+***Home***
 ![](https://github.com/Jjoel2908/Quiz_App_React/blob/master/Home.jpg)
 
-** Titulo de Quiz **
+***Titulo de Quiz***
 ![](https://github.com/Jjoel2908/Quiz_App_React/blob/master/Title.jpg)
 
-** Preguntas de categoría **
+***Preguntas de categoría***
 ![](https://github.com/Jjoel2908/Quiz_App_React/blob/master/Quiz.jpg)
 
 ** Resultados de respuestas correctas **
