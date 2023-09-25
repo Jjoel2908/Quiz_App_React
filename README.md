@@ -20,5 +20,5 @@ Para utilizar la aplicación, el usuario debe seleccionar una categoría. A cont
 ***Preguntas de categoría***
 ![](https://github.com/Jjoel2908/Quiz_App_React/blob/master/Quiz.jpg)
 
-** Resultados de respuestas correctas **
+***Resultados de respuestas correctas***
 ![](https://github.com/Jjoel2908/Quiz_App_React/blob/master/Result.jpg)
