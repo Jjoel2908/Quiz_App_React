@@ -1,8 +1,10 @@
-# React + Vite
+# Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Descripción del proyecto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este proyecto es una aplicación de quiz en React que permite a los usuarios responder preguntas de diferentes categorías como Ciencia, Deportes, Filosofia, Geografía, Historia, Literatura y Tecnología. 
+
+Ejemplo de uso
+
+Para utilizar la aplicación, el usuario debe seleccionar una categoría. A continuación, la aplicación mostrará un quiz aleatorio de preguntas de la categoría seleccionada. El usuario debe seleccionar una opción de respuesta para responder a cada pregunta. Al final del quiz, la aplicación mostrará el promedio de respuestas correctas del usuario.
